@@ -1,0 +1,7 @@
+.App {
+  background-image: url(./homepage.jpeg);
+  min-height: 100vh;
+  display: flex;
+  background-size: cover;
+  background-position: center;
+}
