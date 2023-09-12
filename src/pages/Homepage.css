@@ -1,0 +1,11 @@
+.login {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+}
+.login1 {
+  padding: 30px;
+  background: white;
+  border-radius: 2%;
+}
